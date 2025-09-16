@@ -8,9 +8,10 @@
 - Tableau (Public)
 
 ## 🗂️ Repo structure
-sql/mrr_metrics.sql # основний SQL-запит (метрики по місяцях)
-tableau/dashboard.png # скрін дашборду
-tableau/dashboard.twbx # (опціонально) файл дашборду
+# основний SQL-запит (метрики по місяцях)
+sql/mrr_metrics.sql 
+# скрін дашборду
+tableau/dashboard.png 
 
 
 ## 📊 Dashboard
