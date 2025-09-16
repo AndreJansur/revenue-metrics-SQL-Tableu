@@ -17,7 +17,7 @@ tableau/dashboard.png       # скрін дашборду
 
 ## 📊 Dashboard
 - **KPI зверху:** MRR, Paid Users, ARPPU
-- **Тренди:** MRR + Paid Users (dual axis), ARPPU
+- **Тренди:** MRR + Paid Users, ARPPU
 - **Фактори:** New / Expansion / Contraction / Churned MRR; New vs Churned Users
 - **Фільтри:** payment_month (+ language/age за потреби)
 
