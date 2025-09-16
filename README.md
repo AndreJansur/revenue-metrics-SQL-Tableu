@@ -9,8 +9,9 @@
 
 ## 🗂️ Repo structure
 # основний SQL-запит (метрики по місяцях)
-# скрін дашборду
 
+# скрін дашборду
+![Dashboard Screenshot](tableau/Dashboard.png)
 
 ## 📊 Dashboard
 - **KPI зверху:** MRR, Paid Users, ARPPU
@@ -20,8 +21,6 @@
 
 **Посилання на дашборд:**  
 [Відкрити в Tableau Public]([https://public.tableau.com/app/profile/your_profile/viz/mrr_dashboard](https://public.tableau.com/views/Revenuemetrics_17580548664470/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  <!-- заміни на свій URL -->
-
-![Dashboard Screenshot](tableau/Dashboard.png)
 
 ## 📈 Метрики (коротко)
 - **MRR** — сумарний revenue за місяць від повторюваних джерел
