@@ -20,7 +20,7 @@
 - **Фільтри:** payment_month (+ language/age за потреби)
 
 **Посилання на дашборд:**  
-[Відкрити в Tableau Public]([https://public.tableau.com/app/profile/your_profile/viz/mrr_dashboard](https://public.tableau.com/views/Revenuemetrics_17580548664470/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  <!-- заміни на свій URL -->
+[Відкрити в Tableau Public]([https://public.tableau.com/app/profile/your_profile/viz/mrr_dashboard](https://public.tableau.com/views/Revenuemetrics_17580548664470/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  <!-- 
 
 ## 📈 Метрики (коротко)
 - **MRR** — сумарний revenue за місяць від повторюваних джерел
