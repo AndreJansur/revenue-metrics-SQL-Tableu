@@ -8,7 +8,9 @@
 - Tableau (Public)
 
 ## 🗂️ Repo structure
-# основний SQL-запит (метрики по місяцях)
+
+sql/mrr_metrics.sql         # основний SQL-запит (метрики по місяцях)  
+tableau/dashboard.png       # скрін дашборду  
 
 # скрін дашборду
 ![Dashboard Screenshot](tableau/Dashboard.png)
@@ -20,7 +22,7 @@
 - **Фільтри:** payment_month (+ language/age за потреби)
 
 **Посилання на дашборд:**  
-[Відкрити в Tableau Public]([https://public.tableau.com/app/profile/your_profile/viz/mrr_dashboard](https://public.tableau.com/views/Revenuemetrics_17580548664470/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  <!-- 
+[Відкрити в Tableau Public](https://public.tableau.com/views/Revenuemetrics_17580548664470/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  <!-- 
 
 ## 📈 Метрики (коротко)
 - **MRR** — сумарний revenue за місяць від повторюваних джерел
