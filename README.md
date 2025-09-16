@@ -9,9 +9,7 @@
 
 ## 🗂️ Repo structure
 # основний SQL-запит (метрики по місяцях)
-sql/mrr_metrics.sql 
 # скрін дашборду
-tableau/dashboard.png 
 
 
 ## 📊 Dashboard
